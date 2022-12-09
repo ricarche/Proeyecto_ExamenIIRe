@@ -1,0 +1,55 @@
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.exe.config
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.exe
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.pdb
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.AssemblyReference.cache
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Login.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Properties.Resources.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.GenerateResource.cache
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.exe
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.pdb
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.MenuView.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.EstadoTicketView.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.TipoSoporteView.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.CreacionTicketView.resources
+C:\Users\jessy\OneDrive\Documents\ExamenII\Examen2_JessyAlvarado\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.DetalleTicketView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.exe.config
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.exe
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Examen2.pdb
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Base.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Windows.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Base.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Shared.Windows.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Base.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Tools.Windows.xml
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.AssemblyReference.cache
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.SuggestedBindingRedirects.cache
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.CreacionTicketView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.DetalleTicketView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.EstadoTicketView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Login.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Properties.Resources.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.MenuView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.Vistas.TipoSoporteView.resources
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.GenerateResource.cache
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.csproj.CopyComplete
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.exe
+D:\RAAR\Documents\Universidad\Informática\2022\III PAC\Lenguaje de programacion III\Examen2_JessyAlvarado-main\Examen2_JessyAlvarado-main\Sistema_de_soporte_tecnico\Examen2\obj\Debug\Examen2.pdb
